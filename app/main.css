@@ -1,0 +1,20 @@
+/* main.css */
+
+@font-face
+{
+    font-family: "icons-turn-arrow";
+    src: url('./fonts/icons/icons-turn-arrow.eot') format('embedded-opentype'),
+	     url('./fonts/icons/icons-turn-arrow.woff') format('woff'),    
+	     url('./fonts/icons/icons-turn-arrow.ttf') format('truetype'),  
+	     url('./fonts/icons/icons-turn-arrow.svg') format('svg');
+}
+
+html,
+body {
+    background-color: #222222;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}

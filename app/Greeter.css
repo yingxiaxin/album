@@ -1,0 +1,10 @@
+/* Greeter.css */
+
+.dif {
+    background-color: rgb(231, 121, 121);
+    padding: 10px;
+    border: 3px solid #ccc;
+    width: 300px;
+    box-sizing: border-box;
+    transform: rotate(15deg);
+}
